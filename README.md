@@ -111,7 +111,7 @@ I really enjoyed building this app. I learned a lot and am more confident about 
 
 ## License
 
-    Copyright [2017] [Robert M. Vunabandi]
+    Copyright [2021] [Pulkit Singh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
